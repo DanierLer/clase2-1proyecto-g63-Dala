@@ -1,0 +1,6 @@
+[project]
+name = "clase2-1proyecto-g63-dala"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.10"
+dependencies = []
